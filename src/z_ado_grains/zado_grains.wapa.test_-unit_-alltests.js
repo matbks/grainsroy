@@ -1,0 +1,1 @@
+sap.ui.define(["grains/zado_grains_acm_controlling/test/unit/controller/Contracts.controller"],function(){"use strict"});                                                                                                                                      

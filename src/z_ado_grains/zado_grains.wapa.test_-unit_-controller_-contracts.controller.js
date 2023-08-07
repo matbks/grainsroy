@@ -1,0 +1,1 @@
+sap.ui.define(["grains/zado_grains_acm_controlling/controller/Contracts.controller"],function(t){"use strict";QUnit.module("Contracts Controller");QUnit.test("I should test the Contracts controller",function(n){var o=new t;o.onInit();n.ok(o)})});         

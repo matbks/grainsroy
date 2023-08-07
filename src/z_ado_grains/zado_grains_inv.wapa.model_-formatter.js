@@ -1,0 +1,3 @@
+sap.ui.define([],function(){"use strict";return{currencyValue:function(e){if(!e){return""}return parseFloat(e).toFixed(2)},AccountingDocumentStatusText:function(e){var n=this.getOwnerComponent().getModel("i18n").getResourceBundle();if(e){return n.getText+
+(e)}},AccountingDocumentStatus:function(e){if(e==="CLEARING"){return"Success"}else if(e==="RESIDUAL"){return"Warning"}else if(e==="OPEN"){return"Error"}else if(e==="REVERSED"){return"Warning"}else if(e==="REVERSEDOC"){return"Warning"}else{return"None"}}}+
+});                                                                                                                                                                                                                                                            

@@ -1,0 +1,2 @@
+sap.ui.define(["sap/ui/test/Opa5","sap/ui/model/odata/v2/ODataModel"],function(a,t){"use strict";return a.extend("royalties.zroyalties.test.integration.arrangements.Startup",{iStartMyApp:function(a){var t=a||{};this._clearSharedData();t.delay=t.delay||1;+
+this.iStartMyUIComponent({componentConfig:{name:"royalties.zroyalties",async:true},hash:t.hash,autoWait:t.autoWait})},_clearSharedData:function(){t.mSharedData={server:{},service:{},meta:{}}}})});                                                           

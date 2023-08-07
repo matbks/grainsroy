@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_FUGR" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <AREAT>Grupo de Funções Verif Credito Monsanto</AREAT>
+   <INCLUDES>
+    <SOBJ_NAME>LZADOFG_CREDITO_MONSANTOTOP</SOBJ_NAME>
+    <SOBJ_NAME>SAPLZADOFG_CREDITO_MONSANTO</SOBJ_NAME>
+   </INCLUDES>
+   <FUNCTIONS>
+    <item>
+     <FUNCNAME>ZADOFM_VERIF_CREDITO_MONSANTO</FUNCNAME>
+     <SHORT_TEXT>Consulta Crédito Monsanto</SHORT_TEXT>
+    </item>
+   </FUNCTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

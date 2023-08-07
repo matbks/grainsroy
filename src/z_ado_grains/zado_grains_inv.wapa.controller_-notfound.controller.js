@@ -1,0 +1,2 @@
+sap.ui.define(["./BaseController"],function(t){"use strict";return t.extend("grains.zadograinsacmcontrollingclearingacc.controller.NotFound",{onInit:function(){this.getRouter().getTarget("notFound").attachDisplay(this._onNotFoundDisplayed,this)},_onNotFo+
+undDisplayed:function(){this.getModel("appView").setProperty("/layout","OneColumn")}})});                                                                                                                                                                      

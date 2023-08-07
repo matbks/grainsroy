@@ -1,0 +1,3 @@
+sap.ui.define(["./BaseController","sap/ui/model/json/JSONModel","sap/ui/model/Filter","sap/ui/model/Sorter","sap/ui/model/FilterOperator","sap/m/GroupHeaderListItem","sap/ui/Device","sap/ui/core/Fragment","../model/formatter","sap/m/MessageToast","sap/ui+
+/vk/Material","./RedwareTools/ValueHelp/ValueHelp","sap/ui/core/UIComponent"],function(e,t,o,r,i,a,s,l,n,p,u,d,m){"use strict";return e.extend("royalties.zroyalties.controller.Report",{formatter:n,onInit:function(){this.getView().addEventDelegate({onAfte+
+rShow:function(e){this.byId("st_report").getTable().removeSelections()}.bind(this)},this.getView())}})});                                                                                                                                                      

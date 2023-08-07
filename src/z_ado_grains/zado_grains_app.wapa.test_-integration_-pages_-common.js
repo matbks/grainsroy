@@ -1,0 +1,1 @@
+sap.ui.define(["sap/ui/test/Opa5"],function(n){"use strict";return n.extend("grains.zadograinsacmcontrollingapproval.test.integration.pages.Common",{})});                                                                                                     

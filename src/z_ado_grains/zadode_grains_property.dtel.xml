@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZADODE_GRAINS_PROPERTY</ROLLNAME>
+    <DDLANGUAGE>P</DDLANGUAGE>
+    <DOMNAME>BU_PARTNER</DOMNAME>
+    <LOGFLAG>X</LOGFLAG>
+    <HEADLEN>50</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>20</SCRLEN2>
+    <SCRLEN3>40</SCRLEN3>
+    <DDTEXT>Grains - Propriedade</DDTEXT>
+    <REPTEXT>Propriedade</REPTEXT>
+    <SCRTEXT_S>Propried.</SCRTEXT_S>
+    <SCRTEXT_M>Propriedade</SCRTEXT_M>
+    <SCRTEXT_L>Propriedade</SCRTEXT_L>
+    <DTELMASTER>P</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>

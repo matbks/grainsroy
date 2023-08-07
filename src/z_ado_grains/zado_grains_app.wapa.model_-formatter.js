@@ -1,0 +1,3 @@
+sap.ui.define(["sap/ui/core/format/NumberFormat"],function(r){"use strict";return{currencyValue:function(r){if(!r){return""}return parseFloat(r).toFixed(2)},formatCurrency:function(e,t){var n=r.getCurrencyInstance({currencyCode:t});return n.format(e)+" "+
++t},formatQuantity:function(r,e){var t=Number(r).toLocaleString();return t+" "+e},approvalTypeState:function(r){if(r==="Contrato"){return"Success"}else if(r==="Fixação"){return"Warning"}else{return"None"}},statusState:function(r){if(r==="T"){return"Succe+
+ss"}else if(r==="S"){return"Error"}else{return"None"}}}});                                                                                                                                                                                                     

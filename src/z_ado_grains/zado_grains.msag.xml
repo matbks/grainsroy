@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZADO_GRAINS</ARBGB>
+    <MASTERLANG>P</MASTERLANG>
+    <STEXT>Mensagens Grains - ACM Controlling</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>&amp;1 &amp;2 &amp;3 &amp;4.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Contrato &amp;1 autorizado com sucesso.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Contrato autorizado</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Contrato cancelado</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Autorização estornada</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Contrato autorizado, e posteriormente cancelado</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>Cancelamento estornado</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>Contrato &amp;1 cancelado com sucesso.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>Alterado o status do contrato &amp;1 para esboço.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>Usuário não autorizado.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>Fixação &amp;1, do contrato &amp;2, criada com sucesso.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>011</MSGNR>
+     <TEXT>Fixação &amp;1, do contrato &amp;2, alterada com sucesso.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>012</MSGNR>
+     <TEXT>Fixação &amp;1, do contrato &amp;2, já existe.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>013</MSGNR>
+     <TEXT>Fixação &amp;1, do contrato &amp;2, deletada com sucesso.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>014</MSGNR>
+     <TEXT>Fixação autorizada</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>015</MSGNR>
+     <TEXT>Fixação cancelada</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>016</MSGNR>
+     <TEXT>Fixação autorizada, e posteriormente cancelada</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>017</MSGNR>
+     <TEXT>Não foi possível encontrar os dados da fixação.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>018</MSGNR>
+     <TEXT>Falha ao realizar a fixação.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>019</MSGNR>
+     <TEXT>Fixação realizada com sucesso.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>020</MSGNR>
+     <TEXT>Falha ao atribuir id da precificação ao contrato.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>021</MSGNR>
+     <TEXT>Falha ao buscar a cotação para preço basis.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>022</MSGNR>
+     <TEXT>Preço basis diferente do previsto.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>023</MSGNR>
+     <TEXT>Fora do horário previsto para fixação.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>024</MSGNR>
+     <TEXT>Precificação enviada para aprovação.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>025</MSGNR>
+     <TEXT>Precificação aprovada.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>026</MSGNR>
+     <TEXT>Não foram encontrados dados para fixação.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>027</MSGNR>
+     <TEXT>Falha ao realizar liquidação</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>028</MSGNR>
+     <TEXT>Falha ao gerar grupo de liquidação</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>029</MSGNR>
+     <TEXT>Falha no agrupamento ao gerar grupo de liquidação</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>030</MSGNR>
+     <TEXT>Grupo de liquidação &amp;1 gerado com sucesso</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>031</MSGNR>
+     <TEXT>Falha ao atribuir novo status para fixação</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>032</MSGNR>
+     <TEXT>Falha ao atribuir número do grupo de liquidação a fixação</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>033</MSGNR>
+     <TEXT>Não foi possível determinar a categoria de NF.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>034</MSGNR>
+     <TEXT>Documento contábil não foi encontrado.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>035</MSGNR>
+     <TEXT>Fixação gravada com sucesso.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>036</MSGNR>
+     <TEXT>Não foi possível aprovar o contrato FIXO. Ainda não existe preço fixado.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>037</MSGNR>
+     <TEXT>Grupo de liquidação &amp;1 não foi criado pelo monitor ACM Controlling.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>038</MSGNR>
+     <TEXT>Aplicação &amp;1 possui pendências de Notas Fiscais.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>039</MSGNR>
+     <TEXT>Falha ao buscar documentos de aplicação para fixação.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>040</MSGNR>
+     <TEXT>Quantidade da fixação é inválida.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>041</MSGNR>
+     <TEXT>Fatura &amp;1 memorizada. Será necessário finalizar o registro manualmente.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>042</MSGNR>
+     <TEXT>Fatura &amp;1 registrada com sucesso.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>043</MSGNR>
+     <TEXT>Existem fixações anteriores a essa que não foram compensadas.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>044</MSGNR>
+     <TEXT>Não foi possível encontrar fatura para o grupo de liquidação &amp;1.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZADO_GRAINS</ARBGB>
+     <MSGNR>055</MSGNR>
+     <TEXT>Iniciando processo de liquidação para aplicação &amp;1.</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>

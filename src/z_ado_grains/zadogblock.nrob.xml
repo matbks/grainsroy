@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_NROB" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <ATTRIBUTES>
+    <OBJECT>ZADOGBLOCK</OBJECT>
+    <DOMLEN>NUMC10</DOMLEN>
+    <PERCENTAGE>10.0</PERCENTAGE>
+    <CHANGED_AT>20230213032525.07646</CHANGED_AT>
+    <CHANGED_BY>T_MBILHA</CHANGED_BY>
+    <ENAME>T_MBILHA</ENAME>
+    <EDATE>2023-02-12</EDATE>
+    <ETIME>22:48:46</ETIME>
+   </ATTRIBUTES>
+   <TEXT>
+    <LANGU>P</LANGU>
+    <OBJECT>ZADOGBLOCK</OBJECT>
+    <TXT>Bloqueio de crédito</TXT>
+    <TXTSHORT>Bloqueio de crédito</TXTSHORT>
+    <ENAME>T_MBILHA</ENAME>
+    <EDATE>2023-02-12</EDATE>
+    <ETIME>22:48:46</ETIME>
+   </TEXT>
+  </asx:values>
+ </asx:abap>
+</abapGit>

@@ -1,0 +1,1 @@
+sap.ui.define(["sap/ui/test/Opa5"],function(t){"use strict";return t.extend("royalties.zroyalties.test.integration.pages.Common",{})});                                                                                                                        
